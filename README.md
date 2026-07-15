@@ -42,4 +42,4 @@ First pick option 1 and watch a movie, for example an action movie. Then pick op
 
 ## Author
 
-This project was made by me for the ICT 143-2 Data Structures and Algorithms module at Uva Wellassa University of Sri Lanka.
+This project was made by me (UWU / ICT / 24 /073) for the ICT 143-2 Data Structures and Algorithms module at Uva Wellassa University of Sri Lanka.
